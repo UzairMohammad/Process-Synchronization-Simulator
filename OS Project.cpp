@@ -8,6 +8,7 @@ using namespace std;
 // ----------------------------
 // Process Structure
 // ----------------------------
+
 struct Process {
     int pid;
     int execTime;
